@@ -3,6 +3,50 @@ first time create Project on Git.
 <br>
 first time change 
 second time chnage in git
+
+Setting Up GIT
+----------------
+ 1.vs code/intellij idea
+2.Windows {GIT bash}
+3. Terminal/CMD
+
+check version of GIT
+    git --version
+
+Configure GIT
+--------------------
+git config --global user.name "MY Name"
+git config --global user.email "itspradeep914@gmail.com"
+
+git config --list
+
+
+Change Directory
+--------------------
+change directory means we reached inside the folder
+    cd <-folderName->
+
+ Commands using in GIT
+------------------------
+
+Clone & Sataus
+===============
+Clone-Cloning a repository on our loacal Machine
+    git clone<-repo link from github->
+
+status-Displays the state of the code
+    git status
+
+------Check files in FOlder---
+ls
+
+-----check hidden files in FOlder
+ls -a
+
+Clear the terminal
+-------------------
+clear command use-clear
+
  //four types of modified
  untracked-new files that git doesn't yet tracked
 modified-changed
