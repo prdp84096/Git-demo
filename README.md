@@ -98,3 +98,20 @@ git checkout <-branch name -> (to navigate)
 git checkout -b <-new branch name-> (to create new branch)
 git branch -d <-branch name-> (to delete branch)
 
+Merging Code
+---------------
+way 1-
+git diff<-branch name-> (to compare commits,branches,files & more)
+
+git merge <-branch name-> (to merge 2 branches)
+
+way 2-
+Create a PR
+
+Pull Request
+------------
+it lets you tell others about changes you have pushed to a branch in a repository on GITHUB
+
+// Hello i am editing to new branch  branchtest
+
+
