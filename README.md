@@ -26,6 +26,8 @@ Change Directory
 change directory means we reached inside the folder
     cd <-folderName->
 
+Auto completion folder name using TAB button
+
  Commands using in GIT
 ------------------------
 
