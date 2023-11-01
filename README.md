@@ -112,6 +112,11 @@ Pull Request
 ------------
 it lets you tell others about changes you have pushed to a branch in a repository on GITHUB
 
-// Hello i am editing to new branch  branchtest
+PUll COmmand
+-------------
+    git pull origin main
+
+used to fetch and download content from a remote repo and immediately update the local repo
+to match the content
 
 
