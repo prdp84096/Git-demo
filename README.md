@@ -112,4 +112,14 @@ Pull Request
 ------------
 it lets you tell others about changes you have pushed to a branch in a repository on GITHUB
 
+PUll COmmand
+-------------
+    git pull origin main
+
+used to fetch and download content from a remote repo and immediately update the local repo
+to match the content
+
+Resolvng Merge Conflicts
+-----------------------------
+An event that takes place when git is unable to automatically resolve differences in code between two commits,
 
