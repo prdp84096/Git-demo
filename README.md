@@ -70,3 +70,18 @@ PUSH Command
 
 push-upload local repo content to remote repo
     git push origin main
+
+INIT Command
+--------------
+init-used to create a new git repo
+    git init
+    git remote add origin <-link->
+    git remote -v(to verify remote)
+    git branch (to check branch)
+    git branch -M main (to remote branch)
+    git push origin main
+
+WorkFLOW
+-----------
+Local GIT
+    Githup repo-->clone-->chnages-->add-->commit-->push.
