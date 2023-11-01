@@ -15,3 +15,12 @@ Add & Commit
 
 2.commit-it is the record of change
     git commit-m "some mesage"
+
+if all file are add in once step then
+    git add .
+
+PUSH Command
+-------------
+
+push-upload local repo content to remote repo
+    git push origin main
